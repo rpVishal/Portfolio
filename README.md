@@ -1,39 +1,26 @@
-echo "**********************************************"
-echo "         Welcome to My Portfolio              "
-echo "**********************************************"
-echo ""
-echo "This is a personal portfolio website showcasing my projects, skills, and contact information."
-echo ypu can view on: https://vishal-rajput-potfolio.netlify.app/
-echo ""
-echo "Project Features:"
-echo "1. Responsive design for seamless viewing on all devices."
-echo "2. A modern and interactive user interface."
-echo "3. Sections for About Me, Projects, Contact, and more."
-echo ""
-echo "Technologies Used:"
-echo "- HTML"
-echo "- CSS"
-echo "- JavaScript"
-echo "- EmailJS (for contact form functionality)"
-echo ""
-echo "**********************************************"
-echo "       Setup and Run Instructions             "
-echo "**********************************************"
-echo ""
-echo "1. Clone the repository:"
-echo "   git clone <repository-url>"
-echo ""
-echo "2. Navigate to the project folder:"
-echo "   cd <project-folder>"
-echo ""
-echo "3. Open the 'index.html' file in your browser to view the portfolio:"
-echo "   Open index.html"
-echo ""
-echo "4. For contact form functionality, ensure you have EmailJS configured:"
-echo "   - Replace 'YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', and 'YOUR_PUBLIC_KEY' in the JavaScript file."
-echo ""
-echo "5. Host on a platform like GitHub Pages, Netlify, or Vercel for public access."
-echo ""
-echo "**********************************************"
-echo "         Thank you for visiting!              "
-echo "**********************************************"
+# Welcome to My Portfolio 🎉
+
+This is a personal portfolio website showcasing my projects, skills, and contact information.
+
+🌐 **View it live here**: [https://vishal-rajput-potfolio.netlify.app/](https://vishal-rajput-potfolio.netlify.app/)
+
+---
+
+## ✨ Project Features
+1. **Responsive Design**: Seamless viewing on all devices.
+2. **Interactive UI**: A modern and engaging user interface.
+3. **Portfolio Sections**:
+   - About Me
+   - Experience
+   - Projects
+   - Contact Form
+
+---
+
+## 🛠️ Technologies Used
+- **HTML**: Markup structure.
+- **CSS**: Styling and layouts.
+- **JavaScript**: Interactivity and dynamic content.
+- **EmailJS**: Handles contact form functionality.
+
+---
