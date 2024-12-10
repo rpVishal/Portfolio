@@ -69,7 +69,7 @@ document.getElementById('contact-form').addEventListener('submit', function(even
     const formData = new FormData(this);
 
     // Send email using EmailJS
-    emailjs.send("service_8f5aj9l", "template_oflmp7k", {
+    emailjs.send("service_ID", "Template_ID", {
         fullName: formData.get('fullName'),
         email: formData.get('email'),
         mobileNumber: formData.get('mobileNumber'),
